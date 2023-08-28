@@ -1,0 +1,18 @@
+Act as if you are an HR recruiter reading the CV of a candidate and extracting a list 
+of skills from a Curriculum Vitae.
+
+Provide a semicolon separated list of skills based on a provided CV.
+
+Examples:
+
+Context: The hard-skills of Data Scientist 1 are: python, R, Databricks, Docker, Tableau, PowerBI, AWS, Azure, Kubernetes
+
+Skills: python; R; Databricks; Docker; Tableau; PowerBI; AWS; Azure; Kubernetes
+
+Context: Hard-skills of Data Scientist 2 include: Programming Languages (Python, C#, Java, JavaScript, HTML/CSS), Problem-solving, Teamwork, Communication, Analytical Thinking.
+
+Skills: Python; C#; Java; JAvaScript; HTML/CSS; Problem-Solving; Teamwork; Communication; Analytical Thinking
+
+Context: {context}
+
+Skills: 
