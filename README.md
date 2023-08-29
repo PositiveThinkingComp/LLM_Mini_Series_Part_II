@@ -44,6 +44,4 @@ If you cannot use Poetry for your dependency management you can alternatively in
 * streamlit run \<your_absolute_path_2_the_app\>\multi_index_demo\app.py
 
 # Overview of the application architecture
-![Retrieval Augmented Generation](./assets/rag_overview.PNG)
-![Indexing Stage](./assets/indexing_stage.PNG)
-![Multi-Index Queries](./assets/multi_index_queries.PNG)
+![rag_overview](./assets/rag_overview.PNG)
