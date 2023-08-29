@@ -45,3 +45,5 @@ If you cannot use Poetry for your dependency management you can alternatively in
 
 # Overview of the application architecture
 ![rag_overview](./assets/rag_overview.PNG)
+![indexing_stage](./assets/indexing_stage.PNG)
+![multi_index_queries](./assets/multi_index_queries.PNG)
