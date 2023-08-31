@@ -22,7 +22,7 @@ _**Make sure to test the App only with fictional CV documents, anynomize the CV 
 2. Setup your environment variables e.g. in an .env file 
 > OPENAI_API_KEY = "here comes your openai api key" (example)
 > 
-> SCO_NER_SEARCHTERMS= "your_path_to_esco_searchterms_skill_ner_csv/ESCO dataset - v1.1.0 - classification - en - csv/searchterms_skill_ner.csv" (example)
+> ESCO_NER_SEARCHTERMS= "your_path_to_esco_searchterms_skill_ner_csv/ESCO dataset - v1.1.0 - classification - en - csv/searchterms_skill_ner.csv" (example)
 
 3. Install Poetry 
 [Link to Poetry CLI installation tutorial](https://python-poetry.org/docs/) 
